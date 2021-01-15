@@ -1,0 +1,5 @@
+C:\Users\eduar\EstruturaDePrograma\obj\Debug\net5.0\EstruturaDePrograma.csprojAssemblyReference.cache
+C:\Users\eduar\EstruturaDePrograma\obj\Debug\net5.0\EstruturaDePrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\EstruturaDePrograma\obj\Debug\net5.0\EstruturaDePrograma.AssemblyInfoInputs.cache
+C:\Users\eduar\EstruturaDePrograma\obj\Debug\net5.0\EstruturaDePrograma.AssemblyInfo.cs
+C:\Users\eduar\EstruturaDePrograma\obj\Debug\net5.0\EstruturaDePrograma.csproj.CoreCompileInputs.cache
